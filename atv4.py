@@ -1,0 +1,2 @@
+# tabuada 
+numero = int(print(""))
